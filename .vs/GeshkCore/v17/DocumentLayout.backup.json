@@ -3,6 +3,38 @@
   "WorkspaceRootPath": "C:\\Users\\Gio\\source\\repos\\GeshkCore\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B3495F87-DBD8-41A9-972B-333128223245}|GeshkCore\\GeshkCore.csproj|c:\\users\\gio\\source\\repos\\geshkcore\\geshkcore\\domain\\entities\\geshkadmin\\planmodulescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3495F87-DBD8-41A9-972B-333128223245}|GeshkCore\\GeshkCore.csproj|solutionrelative:geshkcore\\domain\\entities\\geshkadmin\\planmodulescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3495F87-DBD8-41A9-972B-333128223245}|GeshkCore\\GeshkCore.csproj|c:\\users\\gio\\source\\repos\\geshkcore\\geshkcore\\api\\dtos\\geshkadmin\\planmoduledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3495F87-DBD8-41A9-972B-333128223245}|GeshkCore\\GeshkCore.csproj|solutionrelative:geshkcore\\api\\dtos\\geshkadmin\\planmoduledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3495F87-DBD8-41A9-972B-333128223245}|GeshkCore\\GeshkCore.csproj|c:\\users\\gio\\source\\repos\\geshkcore\\geshkcore\\domain\\entities\\geshkadmin\\planmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3495F87-DBD8-41A9-972B-333128223245}|GeshkCore\\GeshkCore.csproj|solutionrelative:geshkcore\\domain\\entities\\geshkadmin\\planmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3495F87-DBD8-41A9-972B-333128223245}|GeshkCore\\GeshkCore.csproj|c:\\users\\gio\\source\\repos\\geshkcore\\geshkcore\\api\\controllers\\geshkadmin\\consumorecursoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3495F87-DBD8-41A9-972B-333128223245}|GeshkCore\\GeshkCore.csproj|solutionrelative:geshkcore\\api\\controllers\\geshkadmin\\consumorecursoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3495F87-DBD8-41A9-972B-333128223245}|GeshkCore\\GeshkCore.csproj|c:\\users\\gio\\source\\repos\\geshkcore\\geshkcore\\api\\dtos\\geshkadmin\\consumorecursodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3495F87-DBD8-41A9-972B-333128223245}|GeshkCore\\GeshkCore.csproj|solutionrelative:geshkcore\\api\\dtos\\geshkadmin\\consumorecursodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3495F87-DBD8-41A9-972B-333128223245}|GeshkCore\\GeshkCore.csproj|c:\\users\\gio\\source\\repos\\geshkcore\\geshkcore\\api\\controllers\\geshkadmin\\notasinternascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3495F87-DBD8-41A9-972B-333128223245}|GeshkCore\\GeshkCore.csproj|solutionrelative:geshkcore\\api\\controllers\\geshkadmin\\notasinternascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3495F87-DBD8-41A9-972B-333128223245}|GeshkCore\\GeshkCore.csproj|c:\\users\\gio\\source\\repos\\geshkcore\\geshkcore\\api\\dtos\\geshkadmin\\notainternadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3495F87-DBD8-41A9-972B-333128223245}|GeshkCore\\GeshkCore.csproj|solutionrelative:geshkcore\\api\\dtos\\geshkadmin\\notainternadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3495F87-DBD8-41A9-972B-333128223245}|GeshkCore\\GeshkCore.csproj|c:\\users\\gio\\source\\repos\\geshkcore\\geshkcore\\domain\\entities\\geshkadmin\\notainterna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3495F87-DBD8-41A9-972B-333128223245}|GeshkCore\\GeshkCore.csproj|solutionrelative:geshkcore\\domain\\entities\\geshkadmin\\notainterna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B3495F87-DBD8-41A9-972B-333128223245}|GeshkCore\\GeshkCore.csproj|c:\\users\\gio\\source\\repos\\geshkcore\\geshkcore\\api\\controllers\\geshkadmin\\historialcuentascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B3495F87-DBD8-41A9-972B-333128223245}|GeshkCore\\GeshkCore.csproj|solutionrelative:geshkcore\\api\\controllers\\geshkadmin\\historialcuentascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -166,7 +198,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -178,7 +210,111 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlanModulesController.cs",
+              "DocumentMoniker": "C:\\Users\\Gio\\source\\repos\\GeshkCore\\GeshkCore\\Domain\\Entities\\GeshkAdmin\\PlanModulesController.cs",
+              "RelativeDocumentMoniker": "GeshkCore\\Domain\\Entities\\GeshkAdmin\\PlanModulesController.cs",
+              "ToolTip": "C:\\Users\\Gio\\source\\repos\\GeshkCore\\GeshkCore\\Domain\\Entities\\GeshkAdmin\\PlanModulesController.cs",
+              "RelativeToolTip": "GeshkCore\\Domain\\Entities\\GeshkAdmin\\PlanModulesController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAwwHoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T16:32:47.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "PlanModule.cs",
+              "DocumentMoniker": "C:\\Users\\Gio\\source\\repos\\GeshkCore\\GeshkCore\\Domain\\Entities\\GeshkAdmin\\PlanModule.cs",
+              "RelativeDocumentMoniker": "GeshkCore\\Domain\\Entities\\GeshkAdmin\\PlanModule.cs",
+              "ToolTip": "C:\\Users\\Gio\\source\\repos\\GeshkCore\\GeshkCore\\Domain\\Entities\\GeshkAdmin\\PlanModule.cs",
+              "RelativeToolTip": "GeshkCore\\Domain\\Entities\\GeshkAdmin\\PlanModule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T16:30:57.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlanModuleDto.cs",
+              "DocumentMoniker": "C:\\Users\\Gio\\source\\repos\\GeshkCore\\GeshkCore\\API\\DTOs\\GeshkAdmin\\PlanModuleDto.cs",
+              "RelativeDocumentMoniker": "GeshkCore\\API\\DTOs\\GeshkAdmin\\PlanModuleDto.cs",
+              "ToolTip": "C:\\Users\\Gio\\source\\repos\\GeshkCore\\GeshkCore\\API\\DTOs\\GeshkAdmin\\PlanModuleDto.cs",
+              "RelativeToolTip": "GeshkCore\\API\\DTOs\\GeshkAdmin\\PlanModuleDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T16:27:33.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConsumoRecursoDto.cs",
+              "DocumentMoniker": "C:\\Users\\Gio\\source\\repos\\GeshkCore\\GeshkCore\\API\\DTOs\\GeshkAdmin\\ConsumoRecursoDto.cs",
+              "RelativeDocumentMoniker": "GeshkCore\\API\\DTOs\\GeshkAdmin\\ConsumoRecursoDto.cs",
+              "ToolTip": "C:\\Users\\Gio\\source\\repos\\GeshkCore\\GeshkCore\\API\\DTOs\\GeshkAdmin\\ConsumoRecursoDto.cs",
+              "RelativeToolTip": "GeshkCore\\API\\DTOs\\GeshkAdmin\\ConsumoRecursoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T16:21:17.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConsumoRecursosController.cs",
+              "DocumentMoniker": "C:\\Users\\Gio\\source\\repos\\GeshkCore\\GeshkCore\\API\\Controllers\\GeshkAdmin\\ConsumoRecursosController.cs",
+              "RelativeDocumentMoniker": "GeshkCore\\API\\Controllers\\GeshkAdmin\\ConsumoRecursosController.cs",
+              "ToolTip": "C:\\Users\\Gio\\source\\repos\\GeshkCore\\GeshkCore\\API\\Controllers\\GeshkAdmin\\ConsumoRecursosController.cs",
+              "RelativeToolTip": "GeshkCore\\API\\Controllers\\GeshkAdmin\\ConsumoRecursosController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAcwD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T16:21:04.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NotasInternasController.cs",
+              "DocumentMoniker": "C:\\Users\\Gio\\source\\repos\\GeshkCore\\GeshkCore\\API\\Controllers\\GeshkAdmin\\NotasInternasController.cs",
+              "RelativeDocumentMoniker": "GeshkCore\\API\\Controllers\\GeshkAdmin\\NotasInternasController.cs",
+              "ToolTip": "C:\\Users\\Gio\\source\\repos\\GeshkCore\\GeshkCore\\API\\Controllers\\GeshkAdmin\\NotasInternasController.cs",
+              "RelativeToolTip": "GeshkCore\\API\\Controllers\\GeshkAdmin\\NotasInternasController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T16:19:16.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NotaInternaDto.cs",
+              "DocumentMoniker": "C:\\Users\\Gio\\source\\repos\\GeshkCore\\GeshkCore\\API\\DTOs\\GeshkAdmin\\NotaInternaDto.cs",
+              "RelativeDocumentMoniker": "GeshkCore\\API\\DTOs\\GeshkAdmin\\NotaInternaDto.cs",
+              "ToolTip": "C:\\Users\\Gio\\source\\repos\\GeshkCore\\GeshkCore\\API\\DTOs\\GeshkAdmin\\NotaInternaDto.cs",
+              "RelativeToolTip": "GeshkCore\\API\\DTOs\\GeshkAdmin\\NotaInternaDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T16:11:46.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NotaInterna.cs",
+              "DocumentMoniker": "C:\\Users\\Gio\\source\\repos\\GeshkCore\\GeshkCore\\Domain\\Entities\\GeshkAdmin\\NotaInterna.cs",
+              "RelativeDocumentMoniker": "GeshkCore\\Domain\\Entities\\GeshkAdmin\\NotaInterna.cs",
+              "ToolTip": "C:\\Users\\Gio\\source\\repos\\GeshkCore\\GeshkCore\\Domain\\Entities\\GeshkAdmin\\NotaInterna.cs",
+              "RelativeToolTip": "GeshkCore\\Domain\\Entities\\GeshkAdmin\\NotaInterna.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T16:10:26.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "HistorialCuentaDto.cs",
               "DocumentMoniker": "C:\\Users\\Gio\\source\\repos\\GeshkCore\\GeshkCore\\API\\DTOs\\GeshkAdmin\\HistorialCuentaDto.cs",
               "RelativeDocumentMoniker": "GeshkCore\\API\\DTOs\\GeshkAdmin\\HistorialCuentaDto.cs",
@@ -186,12 +322,11 @@
               "RelativeToolTip": "GeshkCore\\API\\DTOs\\GeshkAdmin\\HistorialCuentaDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-24T06:00:30.927Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-24T06:00:30.927Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 9,
               "Title": "HistorialCuenta.cs",
               "DocumentMoniker": "C:\\Users\\Gio\\source\\repos\\GeshkCore\\GeshkCore\\Domain\\Entities\\GeshkAdmin\\HistorialCuenta.cs",
               "RelativeDocumentMoniker": "GeshkCore\\Domain\\Entities\\GeshkAdmin\\HistorialCuenta.cs",
@@ -199,25 +334,24 @@
               "RelativeToolTip": "GeshkCore\\Domain\\Entities\\GeshkAdmin\\HistorialCuenta.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-24T06:00:03.536Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-24T06:00:03.536Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 8,
               "Title": "HistorialCuentasController.cs",
               "DocumentMoniker": "C:\\Users\\Gio\\source\\repos\\GeshkCore\\GeshkCore\\API\\Controllers\\GeshkAdmin\\HistorialCuentasController.cs",
               "RelativeDocumentMoniker": "GeshkCore\\API\\Controllers\\GeshkAdmin\\HistorialCuentasController.cs",
               "ToolTip": "C:\\Users\\Gio\\source\\repos\\GeshkCore\\GeshkCore\\API\\Controllers\\GeshkAdmin\\HistorialCuentasController.cs",
               "RelativeToolTip": "GeshkCore\\API\\Controllers\\GeshkAdmin\\HistorialCuentasController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAwwA4AAAA4AAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAD4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-24T05:53:06.225Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 11,
               "Title": "LogsModuloController.cs",
               "DocumentMoniker": "C:\\Users\\Gio\\source\\repos\\GeshkCore\\GeshkCore\\API\\Controllers\\GeshkAdmin\\LogsModuloController.cs",
               "RelativeDocumentMoniker": "GeshkCore\\API\\Controllers\\GeshkAdmin\\LogsModuloController.cs",
@@ -225,12 +359,11 @@
               "RelativeToolTip": "GeshkCore\\API\\Controllers\\GeshkAdmin\\LogsModuloController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-24T05:51:23.16Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-24T05:51:23.16Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 13,
               "Title": "LogAccesoDto.cs",
               "DocumentMoniker": "C:\\Users\\Gio\\source\\repos\\GeshkCore\\GeshkCore\\API\\DTOs\\GeshkAdmin\\LogAccesoDto.cs",
               "RelativeDocumentMoniker": "GeshkCore\\API\\DTOs\\GeshkAdmin\\LogAccesoDto.cs",
@@ -238,12 +371,11 @@
               "RelativeToolTip": "GeshkCore\\API\\DTOs\\GeshkAdmin\\LogAccesoDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-24T05:49:58.177Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-24T05:49:58.177Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 14,
               "Title": "LogModuloDto.cs",
               "DocumentMoniker": "C:\\Users\\Gio\\source\\repos\\GeshkCore\\GeshkCore\\API\\DTOs\\GeshkAdmin\\LogModuloDto.cs",
               "RelativeDocumentMoniker": "GeshkCore\\API\\DTOs\\GeshkAdmin\\LogModuloDto.cs",
@@ -251,12 +383,11 @@
               "RelativeToolTip": "GeshkCore\\API\\DTOs\\GeshkAdmin\\LogModuloDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-24T05:48:23.647Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-24T05:48:23.647Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 12,
               "Title": "LogsAccesoController.cs",
               "DocumentMoniker": "C:\\Users\\Gio\\source\\repos\\GeshkCore\\GeshkCore\\API\\Controllers\\GeshkAdmin\\LogsAccesoController.cs",
               "RelativeDocumentMoniker": "GeshkCore\\API\\Controllers\\GeshkAdmin\\LogsAccesoController.cs",
@@ -264,12 +395,11 @@
               "RelativeToolTip": "GeshkCore\\API\\Controllers\\GeshkAdmin\\LogsAccesoController.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAACAAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-16T21:23:50.604Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-16T21:23:50.604Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 15,
               "Title": "ConfiguracionesCatalogoController.cs",
               "DocumentMoniker": "C:\\Users\\Gio\\source\\repos\\GeshkCore\\GeshkCore\\API\\Controllers\\Catalogo\\ConfiguracionesCatalogoController.cs",
               "RelativeDocumentMoniker": "GeshkCore\\API\\Controllers\\Catalogo\\ConfiguracionesCatalogoController.cs",
@@ -281,7 +411,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 17,
               "Title": "PromocionDto.cs",
               "DocumentMoniker": "C:\\Users\\Gio\\source\\repos\\GeshkCore\\GeshkCore\\API\\DTOs\\Catalogo\\PromocionDto.cs",
               "RelativeDocumentMoniker": "GeshkCore\\API\\DTOs\\Catalogo\\PromocionDto.cs",
@@ -293,7 +423,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 16,
               "Title": "PromocionesController.cs",
               "DocumentMoniker": "C:\\Users\\Gio\\source\\repos\\GeshkCore\\GeshkCore\\API\\Controllers\\Catalogo\\PromocionesController.cs",
               "RelativeDocumentMoniker": "GeshkCore\\API\\Controllers\\Catalogo\\PromocionesController.cs",
@@ -305,7 +435,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 19,
               "Title": "PublicacionDto.cs",
               "DocumentMoniker": "C:\\Users\\Gio\\source\\repos\\GeshkCore\\GeshkCore\\API\\DTOs\\Catalogo\\PublicacionDto.cs",
               "RelativeDocumentMoniker": "GeshkCore\\API\\DTOs\\Catalogo\\PublicacionDto.cs",
@@ -317,7 +447,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 18,
               "Title": "PublicacionesController.cs",
               "DocumentMoniker": "C:\\Users\\Gio\\source\\repos\\GeshkCore\\GeshkCore\\API\\Controllers\\Catalogo\\PublicacionesController.cs",
               "RelativeDocumentMoniker": "GeshkCore\\API\\Controllers\\Catalogo\\PublicacionesController.cs",
@@ -329,7 +459,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 20,
               "Title": "ProductosCatalogoController.cs",
               "DocumentMoniker": "C:\\Users\\Gio\\source\\repos\\GeshkCore\\GeshkCore\\API\\Controllers\\Catalogo\\ProductosCatalogoController.cs",
               "RelativeDocumentMoniker": "GeshkCore\\API\\Controllers\\Catalogo\\ProductosCatalogoController.cs",
@@ -341,7 +471,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 21,
               "Title": "GruposTrabajoController.cs",
               "DocumentMoniker": "C:\\Users\\Gio\\source\\repos\\GeshkCore\\GeshkCore\\API\\Controllers\\Empleados\\GruposTrabajoController.cs",
               "RelativeDocumentMoniker": "GeshkCore\\API\\Controllers\\Empleados\\GruposTrabajoController.cs",
@@ -353,7 +483,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 23,
               "Title": "HistorialEmpleadoDto.cs",
               "DocumentMoniker": "C:\\Users\\Gio\\source\\repos\\GeshkCore\\GeshkCore\\API\\DTOs\\Empleados\\HistorialEmpleadoDto.cs",
               "RelativeDocumentMoniker": "GeshkCore\\API\\DTOs\\Empleados\\HistorialEmpleadoDto.cs",
@@ -365,7 +495,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 22,
               "Title": "HistorialEmpleadosController.cs",
               "DocumentMoniker": "C:\\Users\\Gio\\source\\repos\\GeshkCore\\GeshkCore\\API\\Controllers\\Empleados\\HistorialEmpleadosController.cs",
               "RelativeDocumentMoniker": "GeshkCore\\API\\Controllers\\Empleados\\HistorialEmpleadosController.cs",
@@ -377,7 +507,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 24,
               "Title": "AsistenciasController.cs",
               "DocumentMoniker": "C:\\Users\\Gio\\source\\repos\\GeshkCore\\GeshkCore\\API\\Controllers\\Empleados\\AsistenciasController.cs",
               "RelativeDocumentMoniker": "GeshkCore\\API\\Controllers\\Empleados\\AsistenciasController.cs",
@@ -389,7 +519,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 26,
               "Title": "HorarioSemanalDto.cs",
               "DocumentMoniker": "C:\\Users\\Gio\\source\\repos\\GeshkCore\\GeshkCore\\API\\DTOs\\Empleados\\HorarioSemanalDto.cs",
               "RelativeDocumentMoniker": "GeshkCore\\API\\DTOs\\Empleados\\HorarioSemanalDto.cs",
@@ -401,7 +531,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 25,
               "Title": "HorariosController.cs",
               "DocumentMoniker": "C:\\Users\\Gio\\source\\repos\\GeshkCore\\GeshkCore\\API\\Controllers\\Empleados\\HorariosController.cs",
               "RelativeDocumentMoniker": "GeshkCore\\API\\Controllers\\Empleados\\HorariosController.cs",
@@ -413,7 +543,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 27,
               "Title": "DisponibilidadesController.cs",
               "DocumentMoniker": "C:\\Users\\Gio\\source\\repos\\GeshkCore\\GeshkCore\\API\\Controllers\\Empleados\\DisponibilidadesController.cs",
               "RelativeDocumentMoniker": "GeshkCore\\API\\Controllers\\Empleados\\DisponibilidadesController.cs",
@@ -425,7 +555,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 29,
               "Title": "EmpleadoDto.cs",
               "DocumentMoniker": "C:\\Users\\Gio\\source\\repos\\GeshkCore\\GeshkCore\\API\\DTOs\\Empleados\\EmpleadoDto.cs",
               "RelativeDocumentMoniker": "GeshkCore\\API\\DTOs\\Empleados\\EmpleadoDto.cs",
@@ -437,7 +567,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 28,
               "Title": "EmpleadosController.cs",
               "DocumentMoniker": "C:\\Users\\Gio\\source\\repos\\GeshkCore\\GeshkCore\\API\\Controllers\\Empleados\\EmpleadosController.cs",
               "RelativeDocumentMoniker": "GeshkCore\\API\\Controllers\\Empleados\\EmpleadosController.cs",
@@ -449,7 +579,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 30,
               "Title": "RespuestasController.cs",
               "DocumentMoniker": "C:\\Users\\Gio\\source\\repos\\GeshkCore\\GeshkCore\\API\\Controllers\\Encuestas\\RespuestasController.cs",
               "RelativeDocumentMoniker": "GeshkCore\\API\\Controllers\\Encuestas\\RespuestasController.cs",
@@ -461,7 +591,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 31,
               "Title": "PreguntasController.cs",
               "DocumentMoniker": "C:\\Users\\Gio\\source\\repos\\GeshkCore\\GeshkCore\\API\\Controllers\\Encuestas\\PreguntasController.cs",
               "RelativeDocumentMoniker": "GeshkCore\\API\\Controllers\\Encuestas\\PreguntasController.cs",
@@ -473,7 +603,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 32,
               "Title": "ConfiguracionesEncuestaController.cs",
               "DocumentMoniker": "C:\\Users\\Gio\\source\\repos\\GeshkCore\\GeshkCore\\API\\Controllers\\Encuestas\\ConfiguracionesEncuestaController.cs",
               "RelativeDocumentMoniker": "GeshkCore\\API\\Controllers\\Encuestas\\ConfiguracionesEncuestaController.cs",
@@ -485,7 +615,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 36,
               "Title": "ClienteControllerBase.cs",
               "DocumentMoniker": "C:\\Users\\Gio\\source\\repos\\GeshkCore\\GeshkCore\\API\\Controllers\\ClienteControllerBase.cs",
               "RelativeDocumentMoniker": "GeshkCore\\API\\Controllers\\ClienteControllerBase.cs",
@@ -497,7 +627,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 33,
               "Title": "EncuestasController.cs",
               "DocumentMoniker": "C:\\Users\\Gio\\source\\repos\\GeshkCore\\GeshkCore\\API\\Controllers\\Encuestas\\EncuestasController.cs",
               "RelativeDocumentMoniker": "GeshkCore\\API\\Controllers\\Encuestas\\EncuestasController.cs",
@@ -509,7 +639,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 38,
               "Title": "AlertaStockDto.cs",
               "DocumentMoniker": "C:\\Users\\Gio\\source\\repos\\GeshkCore\\GeshkCore\\API\\DTOs\\Inventario\\AlertaStockDto.cs",
               "RelativeDocumentMoniker": "GeshkCore\\API\\DTOs\\Inventario\\AlertaStockDto.cs",
@@ -521,7 +651,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 39,
               "Title": "AlertaStock.cs",
               "DocumentMoniker": "C:\\Users\\Gio\\source\\repos\\GeshkCore\\GeshkCore\\Domain\\Entities\\Inventario\\AlertaStock.cs",
               "RelativeDocumentMoniker": "GeshkCore\\Domain\\Entities\\Inventario\\AlertaStock.cs",
@@ -533,7 +663,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 37,
               "Title": "AlertasStockController.cs",
               "DocumentMoniker": "C:\\Users\\Gio\\source\\repos\\GeshkCore\\GeshkCore\\API\\Controllers\\Inventario\\AlertasStockController.cs",
               "RelativeDocumentMoniker": "GeshkCore\\API\\Controllers\\Inventario\\AlertasStockController.cs",
@@ -545,7 +675,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 34,
               "Title": "ConfiguracionesAgendaController.cs",
               "DocumentMoniker": "C:\\Users\\Gio\\source\\repos\\GeshkCore\\GeshkCore\\API\\Controllers\\Turnos\\ConfiguracionesAgendaController.cs",
               "RelativeDocumentMoniker": "GeshkCore\\API\\Controllers\\Turnos\\ConfiguracionesAgendaController.cs",
@@ -557,7 +687,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 35,
               "Title": "FormulariosController.cs",
               "DocumentMoniker": "C:\\Users\\Gio\\source\\repos\\GeshkCore\\GeshkCore\\API\\Controllers\\Turnos\\FormulariosController.cs",
               "RelativeDocumentMoniker": "GeshkCore\\API\\Controllers\\Turnos\\FormulariosController.cs",
@@ -569,7 +699,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 40,
               "Title": "ProveedoresController.cs",
               "DocumentMoniker": "C:\\Users\\Gio\\source\\repos\\GeshkCore\\GeshkCore\\API\\Controllers\\Inventario\\ProveedoresController.cs",
               "RelativeDocumentMoniker": "GeshkCore\\API\\Controllers\\Inventario\\ProveedoresController.cs",
@@ -581,7 +711,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 41,
               "Title": "SalidasInventarioController.cs",
               "DocumentMoniker": "C:\\Users\\Gio\\source\\repos\\GeshkCore\\GeshkCore\\API\\Controllers\\Inventario\\SalidasInventarioController.cs",
               "RelativeDocumentMoniker": "GeshkCore\\API\\Controllers\\Inventario\\SalidasInventarioController.cs",
@@ -593,7 +723,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 42,
               "Title": "EntradasInventarioController.cs",
               "DocumentMoniker": "C:\\Users\\Gio\\source\\repos\\GeshkCore\\GeshkCore\\API\\Controllers\\Inventario\\EntradasInventarioController.cs",
               "RelativeDocumentMoniker": "GeshkCore\\API\\Controllers\\Inventario\\EntradasInventarioController.cs",
@@ -605,7 +735,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 43,
               "Title": "ProductosController.cs",
               "DocumentMoniker": "C:\\Users\\Gio\\source\\repos\\GeshkCore\\GeshkCore\\API\\Controllers\\Inventario\\ProductosController.cs",
               "RelativeDocumentMoniker": "GeshkCore\\API\\Controllers\\Inventario\\ProductosController.cs",
@@ -617,7 +747,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 44,
               "Title": "CamposController.cs",
               "DocumentMoniker": "C:\\Users\\Gio\\source\\repos\\GeshkCore\\GeshkCore\\API\\Controllers\\Turnos\\CamposController.cs",
               "RelativeDocumentMoniker": "GeshkCore\\API\\Controllers\\Turnos\\CamposController.cs",
@@ -629,7 +759,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 45,
               "Title": "CitasController.cs",
               "DocumentMoniker": "C:\\Users\\Gio\\source\\repos\\GeshkCore\\GeshkCore\\API\\Controllers\\Turnos\\CitasController.cs",
               "RelativeDocumentMoniker": "GeshkCore\\API\\Controllers\\Turnos\\CitasController.cs",
@@ -641,7 +771,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 46,
               "Title": "JwtService.cs",
               "DocumentMoniker": "C:\\Users\\Gio\\source\\repos\\GeshkCore\\GeshkCore\\Application\\Services\\JwtService.cs",
               "RelativeDocumentMoniker": "GeshkCore\\Application\\Services\\JwtService.cs",

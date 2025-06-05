@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GeshkCore")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+feac32635ca11c359bc933f9a9a9ff6761d0e988")]
 [assembly: System.Reflection.AssemblyProductAttribute("GeshkCore")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GeshkCore")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
