@@ -143,3 +143,4 @@ C:\Users\Gio\source\repos\GeshkCore\GeshkCore\obj\Debug\net8.0\refint\GeshkCore.
 C:\Users\Gio\source\repos\GeshkCore\GeshkCore\obj\Debug\net8.0\GeshkCore.pdb
 C:\Users\Gio\source\repos\GeshkCore\GeshkCore\obj\Debug\net8.0\GeshkCore.genruntimeconfig.cache
 C:\Users\Gio\source\repos\GeshkCore\GeshkCore\obj\Debug\net8.0\ref\GeshkCore.dll
+C:\Users\Gio\source\repos\GeshkCore\GeshkCore\obj\Debug\net8.0\GeshkCore.sourcelink.json
